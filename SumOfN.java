@@ -24,7 +24,7 @@ public class SumOfN {
 		System.out.println("");
 		System.out.print("There are ");
 		System.out.print(totalFirstLast);
-		System.out.print(" numbesr between ");
+		System.out.print(" numbers between ");
 		System.out.print(firstNumber);
 		System.out.print(" and ");
 		System.out.print(lastNumber);
